@@ -4,6 +4,7 @@ A web-app tool to use any device on the same LAN as a wireless microphone for yo
 Use any device (mobile, tablet, or another PC) on your local network as a wireless microphone for your computer.
 
 ## Option 1: Quick Installation
+**Note:** Since the installer is not digitally signed, Windows Defender or SmartScreen may block it. You might need to temporarily disable your Firewall/Antivirus or click "Run anyway" during installation.
 1. Download `LanMic_Setup.exe`.
 2. Run the installer as Administrator.
 3. Follow the instructions to install the VB-CABLE Driver (included).
